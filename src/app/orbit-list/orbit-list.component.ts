@@ -12,5 +12,4 @@ export class OrbitListComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
